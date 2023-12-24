@@ -5,9 +5,9 @@ https://github.com/alinajafiweb/stepText/assets/147813870/f54e8ebb-b1df-4c24-8ae
 
 
 
-- [Demo Project](https://aliafrouz.github.io/stepText/)
+- [Demo Project](https://alinajafi-developer.github.io/stepText/)
 
-- Developed by Ali Afrouz
+- Developed by Ali Najafi
 
 - Created - 2023-11-11
 
@@ -17,4 +17,4 @@ https://github.com/alinajafiweb/stepText/assets/147813870/f54e8ebb-b1df-4c24-8ae
 
 - Role - Frontend
 
-- How to reach me : with my [instagram](https://www.instagram.com/aliafrouz_com) and [linkedin](https://www.linkedin.com/in/aliafrouz/)
+- How to reach me : with my [instagram](https://www.instagram.com/alinajafi_developer) and [linkedin](https://www.linkedin.com/in/alinajafi-developer/)
